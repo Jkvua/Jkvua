@@ -17,6 +17,8 @@
  
  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jkvua&theme=gotham)
  
+ ##
+ 
  <div align="right">
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
  <img height="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
