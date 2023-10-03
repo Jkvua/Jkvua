@@ -15,7 +15,7 @@
 
  ##
  
- ![Snake animation](https://github.com/Jkvua/Jkvua/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/jkvua/jkvua/blob/output/github-contribution-grid-snake.svg)
  
  ##
  
