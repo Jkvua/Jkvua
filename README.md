@@ -5,7 +5,8 @@
 
 ##
 <p align="center">
-  <img src="https://giphy.com/gifs/pixel-pixelart-plant-6cyetttpTEhNqTJ8ZL" /></a>
+  <a href="https://github.com/Jkvua/Jkvua/edit/main/README.md">
+    <img src="https://giphy.com/gifs/pixel-pixelart-plant-6cyetttpTEhNqTJ8ZL" /></a>
 </p>
 ##
 
