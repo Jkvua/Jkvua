@@ -5,10 +5,11 @@
 
 ##
 <p align="center">
-  <a href="https://github.com/Jkvua/Jkvua/edit/main/README.md">
-    <img src="https://giphy.com/gifs/pixel-pixelart-plant-6cyetttpTEhNqTJ8ZL" /></a>
+    <img src=""https://giphy.com/embed/6cyetttpTEhNqTJ8ZL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen"></a>
 </p>
 ##
+
+
 
 <div align="center">
 <a href="https://github.com/jkvua">
