@@ -5,7 +5,7 @@
 
 ##
 <p align="center">
-  <img src="[https://i.imgur.com/q1PV6pF.png](https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif)" /></a>
+  <img src="https://giphy.com/gifs/pixel-pixelart-plant-6cyetttpTEhNqTJ8ZL" /></a>
 </p>
 ##
 
