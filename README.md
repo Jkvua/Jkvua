@@ -5,8 +5,7 @@
 
 ##
 <p align="center">
-  <a href="https://stars.github.com/profiles/denvercoder1/">
-    <img src="https://i.imgur.com/q1PV6pF.png" /></a>
+  <img src="[https://i.imgur.com/q1PV6pF.png](https://i.pinimg.com/originals/ee/9d/de/ee9dde88ff4949f5984bf108bdeea0bc.gif)" /></a>
 </p>
 ##
 
