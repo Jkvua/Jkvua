@@ -8,9 +8,8 @@
     <img src=""https://giphy.com/embed/6cyetttpTEhNqTJ8ZL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen"></a>
 </p>
 ##
-
-
-
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/6cyetttpTEhNqTJ8ZL" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pixel-pixelart-plant-6cyetttpTEhNqTJ8ZL">via GIPHY</a></p>
+##
 <div align="center">
 <a href="https://github.com/jkvua">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkvua&layout=compact&langs_count=7&theme=dark"/>
