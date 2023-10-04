@@ -1,4 +1,4 @@
-<p align="center">Olá, bem vinda 👋
+<p align="center">
  </p>
 
 ##
