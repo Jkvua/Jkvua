@@ -4,7 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d1840&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+Camila+Ferreira+de+Almeida;and+welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 ##
-
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
+</p>
 ##
 
 <div align="center">
