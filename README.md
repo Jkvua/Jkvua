@@ -5,7 +5,7 @@
 
 ##
 <p align="center">
- <img src="https://cdna.artstation.com/p/assets/images/images/013/916/236/large/pixel-1.jpg?1541641728">
+ <img src="https://i.pinimg.com/originals/1c/b1/9b/1cb19b7a3393924e589d8578df74036f.jpg">
 </p>
 ##
 
