@@ -5,8 +5,7 @@
 
 ##
 
-<img src="file:///C:/Users/User/Pictures/testeimagem.png" alt="GitHub Star 2023"/></a>
-
+<img src="https://cdna.artstation.com/p/assets/images/images/013/916/236/large/pixel-1.jpg?1541641728">
 
 ##
 
