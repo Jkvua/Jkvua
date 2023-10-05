@@ -3,7 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d1840&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+Camila+Ferreira+de+Almeida;and+welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-##
 <p align="center">
  <img src="https://i.pinimg.com/originals/93/63/28/936328621c56231e37fd265d276183e2.jpg">
 </p>
