@@ -5,7 +5,7 @@
 
 ##
 <p align="center">
- <img src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fhidai7f3z5g51.gif">
+ <img src="https://i.pinimg.com/originals/93/63/28/936328621c56231e37fd265d276183e2.jpg">
 </p>
 ##
 
