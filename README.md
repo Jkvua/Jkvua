@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d1840&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+Camila+Ferreira+de+Almeida;and+welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 <p align="center">
- <img src="https://i.pinimg.com/originals/65/64/f4/6564f428a7ccd2b9d4785e47d8fe58c5.jpg" height="180cm">
+ <img src="https://i.pinimg.com/originals/f3/38/8f/f3388f13dd3d78169cf2cb49e51d3b46.jpg" height="180cm">
 </p>
 ##
 
