@@ -1,9 +1,11 @@
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0d1840&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+Camila+Ferreira+de+Almeida;and+welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=aaa9bb&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+Camila+Ferreira+de+Almeida;and+welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 <p align="center">
- <img src="https://i.pinimg.com/originals/f3/38/8f/f3388f13dd3d78169cf2cb49e51d3b46.jpg" height="180cm" length="20cm">
+ <img src="https://i.pinimg.com/originals/f3/38/8f/f3388f13dd3d78169cf2cb49e51d3b46.jpg" height="180cm">
 </p>
+
+
 
 <div align="center">
 <a href="https://github.com/jkvua">
@@ -12,7 +14,7 @@
 </div>
 
  ##
- ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Jkvua/Jkvua/blob/output/github-contribution-grid-snake.svg)
  ##
  
  <div align="right">
