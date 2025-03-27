@@ -1,9 +1,11 @@
-##
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=aaa9bb&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+my+name+is+Camila+Ferreira+de+Almeida;and+welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
-<p align="center">
- <img src="https://i.pinimg.com/originals/f3/38/8f/f3388f13dd3d78169cf2cb49e51d3b46.jpg" height="180cm">
-</p>
+---
+
+<div align="center">
+ <img heigth="32em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <img heigth="32em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</div>
 
 ##
 
@@ -24,3 +26,4 @@
   <img heigth="32em" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img heigth="32em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  </div>
+ 
