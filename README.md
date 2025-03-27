@@ -27,7 +27,7 @@
   <img heigth="32em" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
  </div>
  
- ![snake gif](https://github.com/Jkvua/Jkvua/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Jkvua/Jkvua/blob/output/github-contribution-grid-snake.svg)
 
 
  
